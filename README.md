@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Web Devlopment
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak 5 languages ( English,Hindi,Gujarati)
+- ⚡ Fun fact: I speak 3 languages ( English,Hindi,Gujarati)
 
 
 ### Connect with me:
